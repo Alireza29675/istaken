@@ -1,0 +1,13 @@
+{
+  "name": "@alireza29675/istaken",
+  "version": "0.0.1",
+  "description": "Taken IDs checker",
+  "main": "index.js",
+  "repository": "https://github.com/Alireza29675/istaken.git",
+  "bin": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alireza Sheikholmolouki",
+  "license": "MIT"
+}
